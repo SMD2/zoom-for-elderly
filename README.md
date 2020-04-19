@@ -39,7 +39,7 @@ This project guides you on how to configure and set up Zoom conferencing softwar
 7. On the relative's device, click the contact to start a new meeting, answer the call on the tablet and open the Camera and Audio to approved required permissions
 8. You're done!
 
-## Start a meeting
+## Start a video call
 1. On the relative's device, press on the contact name and then press `Meet` to start a new video call
 2. All needed to do is press the green `Accept` button to join the meeting
 3. If you'd like to add more people to the call, press the `Invite` button, copy the meeting invite and share it with others
