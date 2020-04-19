@@ -4,7 +4,7 @@
 During the COVID-19 lookdown period elderly population with limited access and knowledge of technology suffers from loneliness.
 This project guides you on how to configure and set up Zoom conferencing software on a tablet to allow people without technical capabilities to have a video chat with their beloved ones.
 
-## Prequists
+## Prerequisites
 1. For wifi setup 
     - Wifi connection
     - Tablet with wifi connection
